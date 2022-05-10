@@ -151,3 +151,8 @@ C:\WorkSpace\App\obj\Debug\net5.0\Razor\Views\Planet\Index.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Product\Views\Product\Index.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Product\_ViewImports.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Product\_ViewStart.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\DbManage\Index.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\_ViewImports.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\_ViewStart.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\DbManage\DeleteDb.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Views\Shared\_MenuManagePartial.cshtml.g.cs

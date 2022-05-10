@@ -11,7 +11,7 @@
 
 <p>@Url.Action("Index","Product")</p> 
 <a asp-action="Index" asp-controller="Product" asp-area="Product">Product Link</a>
-<a asp-action ="Index" asp-controller="First" asp-route-id="3">Get Product have Id is 3</a>
+<a asp-action ="ViewProduct" asp-controller="First" asp-route-id="3">Get Product have Id is 3</a>
 <br>
 
 @{
@@ -22,6 +22,6 @@
         };
     
 }
-<a asp-action ="Index" asp-controller="First" asp-route-all="@routeData">
+<a asp-action ="ViewProduct" asp-controller="First" asp-route-all="@routeData">
   Using asp-route-all 
 </a>
