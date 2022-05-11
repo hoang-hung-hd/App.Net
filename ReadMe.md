@@ -32,3 +32,5 @@
     - Có thể thêm 2 cấu hình sau vào file appsettings.json ( mục Logging) để đọc log ứng dụng : 
     "Microsoft.EntityFrameworkCore.Query" : "Information", 
     "Microsoft.EntityFrameworkCore.Database.Command": "Information"
+## SCSS
+    - Sử dụng package Gulp để chuyển đổi các file css trong thư mục asset/scss/*.scss thành css trong thư mục wwwroot/css/site.css
