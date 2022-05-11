@@ -156,3 +156,11 @@ C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\_ViewImports.cshtml
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\_ViewStart.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Database\Views\DbManage\DeleteDb.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Views\Shared\_MenuManagePartial.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Delete.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Index.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\SendContact.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Contact\Views\_ViewImports.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Contact\Views\_ViewStart.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Details.cshtml.g.cs
+C:\WorkSpace\App\bin\Debug\net5.0\package-lock.json
+C:\WorkSpace\App\bin\Debug\net5.0\package.json

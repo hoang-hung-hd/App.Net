@@ -15619,8 +15619,23 @@
   "RootNamespace": "App",
   "Documents": [
     {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Contact\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\Contact\\Index.cshtml",
+      "TargetPath": "Areas\\Contact\\Views\\Contact\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\WorkSpace\\App\\Areas\\Database\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Database\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\Contact\\Details.cshtml",
+      "TargetPath": "Areas\\Contact\\Views\\Contact\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15686,6 +15701,21 @@
     {
       "FilePath": "c:\\WorkSpace\\App\\Views\\Shared\\_MenuManagePartial.cshtml",
       "TargetPath": "Views\\Shared\\_MenuManagePartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\Contact\\SendContact.cshtml",
+      "TargetPath": "Areas\\Contact\\Views\\Contact\\SendContact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\Contact\\Delete.cshtml",
+      "TargetPath": "Areas\\Contact\\Views\\Contact\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Contact\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {

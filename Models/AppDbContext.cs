@@ -1,3 +1,4 @@
+using App.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace App.Models
@@ -27,6 +28,8 @@ namespace App.Models
             //     }
             // }
         }
+
+        public DbSet<Contact> Contact {set;get;}
     
     }
 }
