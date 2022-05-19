@@ -17,9 +17,12 @@ namespace App.Areas.Identity.Pages.Account
     {
         private readonly UserManager<AppUser> _userManager;
 
-        public ConfirmEmailModel(UserManager<AppUser> userManager)
+        private readonly SignInManager<AppUser> _signInManage;
+
+        public ConfirmEmailModel(UserManager<AppUser> userManager, SignInManager<AppUser> signInManage)
         {
             _userManager = userManager;
+            _signInManage = signInManage;
         }
 
         [TempData]
@@ -41,7 +44,18 @@ namespace App.Areas.Identity.Pages.Account
             code = Encoding.UTF8.GetString(WebEncoders.Base64UrlDecode(code));
             var result = await _userManager.ConfirmEmailAsync(user, code);
             StatusMessage = result.Succeeded ? "Thank you for confirming your email." : "Error confirming your email.";
-            return Page();
+
+            if(result.Succeeded)
+            {
+               await _signInManage.SignInAsync(user , false);
+               return Redirect("/Index");
+            }
+            else 
+            {
+                return Content("Fail to confirm Email");
+            }
+
+            // return Page();
         }
     }
 }
