@@ -15669,8 +15669,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\WorkSpace\\App\\Areas\\Database\\Views\\DbManage\\Index.cshtml",
       "TargetPath": "Areas\\Database\\Views\\DbManage\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15686,6 +15696,16 @@
     {
       "FilePath": "c:\\WorkSpace\\App\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15714,6 +15734,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\WorkSpace\\App\\Pages\\Shared\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\Shared\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\WorkSpace\\App\\Areas\\Contact\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Contact\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15729,8 +15754,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\WorkSpace\\App\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\WorkSpace\\App\\Views\\Shared\\_AlertMessage.cshtml",
       "TargetPath": "Views\\Shared\\_AlertMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15741,6 +15781,11 @@
     {
       "FilePath": "c:\\WorkSpace\\App\\Areas\\Product\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Product\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\WorkSpace\\App\\Pages\\Shared\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\Shared\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
