@@ -491,3 +491,8 @@ E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\ref\App.dll
 E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\App.pdb
 E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\App.genruntimeconfig.cache
 E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewStart.cshtml.g.cs
+E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\Index.cshtml.g.cs
+E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\_StatusMessage.cshtml.g.cs
+E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\Create.cshtml.g.cs
+E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\_ViewImports.cshtml.g.cs
+E:\C#\Youtube\Git_Dowload\App.Net\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\_ViewStart.cshtml.g.cs
