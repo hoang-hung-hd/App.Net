@@ -244,3 +244,16 @@ C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImport
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewStart.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\Create.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\Index.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\_ViewImports.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\_ViewStart.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\_StatusMessage.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\Edit.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Role\Delete.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\USer\Index.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\USer\_StatusMessage.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\USer\_ViewImports.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Areas\Admin\Pages\USer\_ViewStart.cshtml.g.cs
+C:\WorkSpace\App\obj\Debug\net5.0\Razor\Pages\Shared\_PagingXTL.cshtml.g.cs

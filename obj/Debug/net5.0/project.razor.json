@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Pages\\Shared\\_PagingXTL.cshtml",
+      "TargetPath": "Pages\\Shared\\_PagingXTL.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
       "FileKind": "mvc"
@@ -15649,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
       "FileKind": "mvc"
@@ -15666,6 +15676,11 @@
     {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Contact\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Contact\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15764,8 +15779,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\USer\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\USer\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\USer\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\USer\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15809,6 +15839,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "FileKind": "mvc"
@@ -15821,6 +15856,16 @@
     {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\_StatusMessage.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\_StatusMessage.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15864,8 +15909,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\USer\\_StatusMessage.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\USer\\_StatusMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15901,6 +15956,16 @@
     {
       "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Database\\Views\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Database\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\Role\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Role\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\C#\\Youtube\\Git_Dowload\\App.Net\\Areas\\Admin\\Pages\\USer\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\USer\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
