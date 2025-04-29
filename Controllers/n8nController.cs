@@ -1,1 +1,1 @@
-try something to test automated function from n8n
+new infor from n8n
